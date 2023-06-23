@@ -1,2 +1,4 @@
 # django_template
-A template for a standard Django project with built in Tailwind and Flowbite.
+A simple template for Django projects with a custom user.
+
+Use pip install requirments.txt to use.
