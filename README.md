@@ -10,7 +10,7 @@ Set up VENV -
     
 Basic setup -
 
-    pip install -r requirments.txt
+    pip install -r requirements.txt
     python manage.py migrate
     python manage.py createsuperuser
     python manage.py runserver
